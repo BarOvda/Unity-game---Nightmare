@@ -1,12 +1,8 @@
-GDD ¬– Nightmare
+GDD – Nightmare
 High Concept
 You found yourself in an abandoned cemetery.
 You need to escape, but first there is couple of quests you need to do.
-Controls
-Movment: W/S/A/D.
-Machete hit: mouse right click.
-Start level: I
-Next level: N
+
 List of levels
 Level 1 – solve the cemetery mystery
 You found an old letter with a riddle.. solve it to get on.
