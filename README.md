@@ -1,7 +1,7 @@
 GDD – Nightmare
 High Concept
 You found yourself in an abandoned cemetery.
-You need to escape, but first there is couple of quests you need to do.
+You need to escape, but first there is couple of quests you will need to do.
 
 List of levels
 
